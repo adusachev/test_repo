@@ -1,3 +1,3 @@
 import show
 
-my_plot([1, 2], [3, 4])
+my_plot([1, 2], [3, 5])
