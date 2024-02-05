@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo 42
+echo 44
+exit 1
+echo $?
